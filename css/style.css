@@ -79,8 +79,4 @@ h1, h2, h3 {
 /*
 Contenedor flexible
 */
-.cards {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-}
+
