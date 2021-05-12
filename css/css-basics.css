@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+}
+
+.div-grey {
+	background-color: #eee;
+}
+
+#fixed {
+	width: 500px;
+	height: 150px;
+}
+
+#margin {
+	margin: 15px;
+	padding: 20px;
+}
+
+#border {
+	border: 1px solid black;
+}
+
+#radius {
+	border-radius: 50%;
+}
+
+#shadow {
+	box-shadow: 10px 10px 5px #cfcfcf;
+}
